@@ -12,13 +12,13 @@ int main(void)
 	float f;
 
 printf("Size of a char: %1u byte(s)\n", (usigned long)
-sizeofof(a));
+sizeof(a));
 printf("Size of a int: %1u byte(s)\n", (usigned long)
-sizeofof(b));
+sizeof(b));
 printf("Size of a long int: %1u byte(s)\n", (usigned long)
-sizeofof(c));
+sizeof(c));
 printf("Size of a long long int: %1u byte(s)\n", (usigned long)
-sizeofof(d));
+sizeof(d));
 printf("Size of a float: %1u byte(s)\n", (usigned long)
-sizeofof(f));
+sizeof(f));
 return (0);
